@@ -8,4 +8,4 @@ COPY . ./
 
 EXPOSE 8081
 
-CMD [ "npm", "run", "development" ]
+ENTRYPOINT [ "npm", "run", "development" ]
