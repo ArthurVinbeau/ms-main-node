@@ -4,4 +4,5 @@
 
 ## Usage
 
-Incoming...
+- build `docker build -t vinbeau/ms-number-computer ./`
+- run `docker run -p 8081:8081 vinbeau/ms-number-computer`
